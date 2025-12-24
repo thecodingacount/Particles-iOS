@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Particles iOS
 //
-//  Created by @ZeroSenseOfCoding on 15/12/25.
+//  Created by @TheCodingAccount on 15/12/25.
 //
 // MARK: - Warranty void if you actually read the code. 😂
 
